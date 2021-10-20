@@ -1,5 +1,7 @@
 # learn_resources
 
+You can see live project here: https://brave-archimedes-24c645.netlify.app/
+
 ## Project setup
 ```
 npm install
