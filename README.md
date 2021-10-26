@@ -1,3 +1,6 @@
+<img  width=“964” alt="resources" src="https://github.com/Alexandra2888/learn_resources/blob/main/collage.png">"
+
+
 # learn_resources
 
 You can see live project here: https://brave-archimedes-24c645.netlify.app/
